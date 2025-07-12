@@ -21,5 +21,5 @@ Este repositorio contiene varios notebooks desarrollados durante el curso de Pyt
 
 ---
 
-🎓 Estos ejercicios representan la evolución del aprendizaje en Python y sirven como práctica para consolidar conocimientos fundamentales.
+Estos ejercicios representan la evolución del aprendizaje en Python y sirven como práctica para consolidar conocimientos fundamentales.
 
